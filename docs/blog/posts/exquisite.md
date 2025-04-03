@@ -28,12 +28,9 @@ The exquisite corpse is a private shared space for the 54 students of the [cdm](
 
 Please visit the [blog](https://artifraction.com/ec/) for more information.
 
-## Images
-![Craigdarroch Castle](/images/crg/IMG_0010.jpg "The Craigdarroch Castle") ![Craigdarroch Castle](/images/crg/IMG_3532.jpg "The Craigdarroch Castle")
-![Craigdarroch Castle](/images/crg/IMG_0014.jpg "The Craigdarroch Castle")
-
 ## Videos
-[https://vimeo.com/113236346](https://vimeo.com/113236346)
+
+<iframe src="https://player.vimeo.com/video/113236346?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Exquisite Corpse Time-Lapse"></iframe>
 
 ## Location
 Vancouver, BC
