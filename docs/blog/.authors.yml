@@ -1,0 +1,17 @@
+authors:
+  craigdarroch:
+    name: Craigdarroch Castle
+    description: Victoria, BC
+    avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYwKFrI3M6uZZN5m-dIc_j0nPC8lAGs8O5iA&s
+  telus:
+    name: Telus World of Science Edmonton
+    description: Edmonton, AB
+    avatar: https://images.squarespace-cdn.com/content/v1/6251e65ef43f4f4578ee083f/c7fe91fd-c27d-44b1-9dab-4ec5726dbee4/TELUS+logo.png
+  cdm:
+    name: Centre for Digital Media
+    description: Vancouver, BC
+    avatar: https://yt3.googleusercontent.com/1f0Y_lcNtQP2GdPcl-p26tMhlN_3ABtLdkZW96BjsPpRGaZPZO0lloduzM-bGgn4hLc70uHnlQ=s900-c-k-c0x00ffffff-no-rj
+  team:
+    name: Team
+    description: Creator
+    avatar: https://simpleicons.org/icons/materialformkdocs.svg
