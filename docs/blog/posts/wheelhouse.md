@@ -3,13 +3,13 @@ date:
   created: 2015-04-01
 categories:
   - Draft
-# tags:
-#   - Node.js
+tags:
+  - Unity3D
 #   - MongDB
 #   - Javascript
 #   - HTML
-# authors:
-#   - cdm
+authors:
+  - cdm
 ---
 
 # Wheelhouse and touch screen exhibit

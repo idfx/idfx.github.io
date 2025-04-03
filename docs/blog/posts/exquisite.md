@@ -18,7 +18,9 @@ For the [exquisite corpse](https://en.wikipedia.org/wiki/Exquisite_corpse), the 
 
 This short time-lapse video created with screen captures of the website, shows what we collected during the course of about a week:
 
-![Exquisite Corpse](/images/ec/ExquisiteCorpse4x3.gif "Exquisite Corpse timelapse")
+<figure markdown="1">
+  ![Exquisite Corpse](/images/ec/ExquisiteCorpse4x3.gif "Exquisite Corpse timelapse"){width="300px"}
+</figure>
 
 <!-- more -->
 

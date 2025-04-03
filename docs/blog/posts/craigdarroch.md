@@ -14,7 +14,9 @@ authors:
 
 # Craigdarroch AR
 
+<figure markdown="1">
 ![Craigdarroch Castle](/images/crg/thecastle-1024x768.jpg "The Craigdarroch Castle"){width="300px"}
+</figure>
 
 For this project, we created an iOS content delivery system based on indoor location. It also features three different Augmented Reality scenes for different rooms inside the castle.
 
@@ -28,6 +30,12 @@ For this project, we created an iOS content delivery system based on indoor loca
 - <figure markdown> ![Location Aware](/images/crg/locationaware-1024x768.jpg "The Craigdarroch Castle"){width="300px"} <figcaption>Location Aware</figcaption></figure>  
 - <figure markdown> ![Craigdarroch Castle](/images/crg/thecastle-1024x768.jpg "The Craigdarroch Castle"){width="300px"} <figcaption>Craigdarroch Castle</figcaption></figure>  
 </div>
+
+## Videos
+
+<video width="800"  controls>
+    <source src="https://test-ngx.pantheonsite.io/wp-content/uploads/2025/02/craigdarroh-video-for-site-no-audio-edited-1.mp4" type="video/mp4">
+</video>
 
 ## Location
 Victoria, BC

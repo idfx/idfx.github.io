@@ -4,6 +4,7 @@ date:
 categories:
   - Projection Mapping
 tags:
+  - Projection Mapping
   - Unity3D
   - Kinect v2
 authors:
@@ -12,7 +13,9 @@ authors:
 
 # Digital Sandbox
 
-![Flood](/images/sandbox/flood1-960x960.jpg){ width="300px" align="center"}
+<figure markdown="1">
+  ![Flood](/images/sandbox/flood1-960x960.jpg){width="300px"}
+</figure>
 
 We process the point cloud data from a Kinect V2 in Unity to create the colour gradient that is projected on the sand. This was my first project at NGX Interactive.
 
