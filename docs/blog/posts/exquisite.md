@@ -32,7 +32,9 @@ Please visit the [blog](https://artifraction.com/ec/) for more information.
 
 ## Videos
 
-<iframe src="https://player.vimeo.com/video/113236346?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Exquisite Corpse Time-Lapse"></iframe>
+<figure markdown="1">
+  <iframe src="https://player.vimeo.com/video/113236346?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="800" height="450" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Exquisite Corpse Time-Lapse"></iframe>
+</figure>
 
 ## Location
 Vancouver, BC
