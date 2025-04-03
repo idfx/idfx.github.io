@@ -1,6 +1,7 @@
 ---
 hide:
   - footer
+  - navigation
 ---
 
 # Contact
@@ -16,7 +17,8 @@ hide:
 
       [:fontawesome-brands-github:](https://github.com/idfx)
     </figure>
-
+</div>
+<div class="grid cards" markdown>
   - <figure markdown="1">
       [Follow me on X](https://x.com/j1lara)
 

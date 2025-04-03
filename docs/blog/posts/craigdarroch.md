@@ -33,9 +33,11 @@ For this project, we created an iOS content delivery system based on indoor loca
 
 ## Videos
 
-<video width="800"  controls>
-    <source src="https://test-ngx.pantheonsite.io/wp-content/uploads/2025/02/craigdarroh-video-for-site-no-audio-edited-1.mp4" type="video/mp4">
-</video>
+<figure markdown="1">
+  <video width="800"  controls>
+      <source src="https://test-ngx.pantheonsite.io/wp-content/uploads/2025/02/craigdarroh-video-for-site-no-audio-edited-1.mp4" type="video/mp4">
+  </video>
+</figure>
 
 ## Location
 Victoria, BC

@@ -1,6 +1,8 @@
 ---
 hide:
+  - toc
   - footer
+  - navigation
 ---
 
 ![Iceland Pano](/images/Iceland-pano.jpg "Iceland Pano")
