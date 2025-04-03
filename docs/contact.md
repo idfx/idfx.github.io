@@ -24,8 +24,8 @@ hide:
     </figure>
 
   - <figure markdown="1">
-      [Check out my LinkedIn](www.linkedin.com/in/j1lara)
+      [Check out my LinkedIn](https://www.linkedin.com/in/j1lara)
     
-      [:fontawesome-brands-linkedin:](www.linkedin.com/in/j1lara)
+      [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/j1lara)
     </figure>
 </div>

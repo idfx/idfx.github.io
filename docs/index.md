@@ -19,4 +19,4 @@ These are some of [my projects](/blog). Enjoy!
 
 Contact me via 
 
-[:envelope:](mailto:juandariolara@gmail.com) [:fontawesome-brands-github:](https://github.com/idfx) [:fontawesome-brands-x-twitter:](https://x.com/j1lara) [:fontawesome-brands-linkedin:](www.linkedin.com/in/j1lara)
+[:envelope:](mailto:juandariolara@gmail.com) [:fontawesome-brands-github:](https://github.com/idfx) [:fontawesome-brands-x-twitter:](https://x.com/j1lara) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/j1lara)
