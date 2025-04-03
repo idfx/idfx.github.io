@@ -28,7 +28,6 @@ For this project, we created an iOS content delivery system based on indoor loca
 - <figure markdown> ![AR 2](/images/crg/ar2-1024x768.jpg "The Craigdarroch Castle"){width="300px"} <figcaption>AR 2</figcaption></figure>  
 - <figure markdown> ![Ipads](/images/crg/ipads-1024x768.jpg "The Craigdarroch Castle"){width="300px"} <figcaption>Ipads</figcaption></figure>  
 - <figure markdown> ![Location Aware](/images/crg/locationaware-1024x768.jpg "The Craigdarroch Castle"){width="300px"} <figcaption>Location Aware</figcaption></figure>  
-- <figure markdown> ![Craigdarroch Castle](/images/crg/thecastle-1024x768.jpg "The Craigdarroch Castle"){width="300px"} <figcaption>Craigdarroch Castle</figcaption></figure>  
 </div>
 
 ## Videos
@@ -37,6 +36,7 @@ For this project, we created an iOS content delivery system based on indoor loca
   <video width="800"  controls>
       <source src="https://test-ngx.pantheonsite.io/wp-content/uploads/2025/02/craigdarroh-video-for-site-no-audio-edited-1.mp4" type="video/mp4">
   </video>
+  <figcaption>Craigdarroch Augmented Reality. Courtesy of NGX Interactive</figcaption>
 </figure>
 
 ## Location

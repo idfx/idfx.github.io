@@ -2,7 +2,7 @@ site_name: Juan Lara
 site_description: Portfolio website for Juan Lara
 site_url: https://juanlara.io
 repo_url: https://github.com/idfx/idfx.github.io
-copyright: Copyright &copy; 2015 - 2025 Juan Lara
+copyright: Copyright &copy; 2014 - 2025 Juan Lara
 
 plugins:
   - search

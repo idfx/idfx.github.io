@@ -52,9 +52,10 @@ We process the point cloud data from a Kinect V2 in Unity to create the colour g
 
 ## Videos
 
-<iframe src="https://player.vimeo.com/video/228937279?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Sandbox1"></iframe>
-
-<iframe src="https://player.vimeo.com/video/228937200?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Sandbox2"></iframe>
+<figure markdown>
+  <iframe src="https://player.vimeo.com/video/228937279?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Sandbox1"></iframe>
+  <iframe src="https://player.vimeo.com/video/228937200?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Sandbox2"></iframe>  
+</figure>
 
 ## Location
 Victoria, BC

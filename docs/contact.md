@@ -5,6 +5,9 @@ hide:
 ---
 
 # Contact
+
+Please feel free to contact me:
+
 <div class="grid cards" markdown>
   - <figure markdown="1">
       [Send me an email](mailto:juandariolara@gmail.com)
