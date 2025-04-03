@@ -7,7 +7,8 @@ hide:
 
 ![Iceland Pano](/images/Iceland-pano.jpg "Iceland Pano")
 
-# Hello 👋🏾  I'm Juan.
+# Hello! 👋🏾 I'm Juan
+(pronounced as /hwɑːn/).
 
 ## A little about me.
 
