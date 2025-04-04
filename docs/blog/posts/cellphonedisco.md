@@ -8,8 +8,8 @@ categories:
 #   - MongDB
 #   - Javascript
 #   - HTML
-# authors:
-#   - cdm
+authors:
+  - scienceworld
 ---
 
 # Cell Phone Disco

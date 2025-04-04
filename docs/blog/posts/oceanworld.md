@@ -8,8 +8,8 @@ tags:
   - Unity3D
   # - Javascript
   # - HTML
-# authors:
-#   - cdm
+authors:
+  - discovery
 ---
 
 # My Ocean World

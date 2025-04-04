@@ -10,8 +10,8 @@ tags:
   - Unity3D
 #   - Javascript
 #   - HTML
-# authors:
-#   - cdm
+authors:
+  - autodesk
 ---
 
 # Autodesk Gallery 2.0
