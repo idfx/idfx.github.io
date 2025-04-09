@@ -51,12 +51,14 @@ I worked on 3 different applications for this project:
 San Francisco, CA
 
 ## Client
-Autodesk
+[Autodesk](https://www.autodesk.com)
 
 ## Date
 December 2021
 
 ## Links
+[https://www.autodesk.com/gallery/overview](https://www.autodesk.com/gallery/overview)
+
 [https://ngxinteractive.com/case-study/autodesk-gallery-2-0/](https://ngxinteractive.com/case-study/autodesk-gallery-2-0/)
 
 ## Technical Environment
