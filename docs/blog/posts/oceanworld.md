@@ -16,7 +16,8 @@ authors:
 # My Ocean World
 <figure markdown> ![My Ocean World 8](/images/oceanworld/IMG_2997-1024x766.jpg "My Ocean World 8"){width="300px"} <figcaption>My Ocean World 8</figcaption></figure>
 
-Using an Intel RealSense camera, I developed an object detection system in C++ that allows users to interact with the objects projected on the table.
+Using an Intel RealSense camera, I developed an object detection system in C++ to track the
+user's arms on the table. This way the users can interact with the objects projected on the table.
 
 <!-- more -->
 
