@@ -16,8 +16,6 @@ authors:
 
 <figure markdown> ![Látrabjarg Cliff Model](/images/perlan/IMG_5568-768x1024.jpeg "Látrabjarg Cliff Model"){width="300px"} <figcaption>Látrabjarg Cliff Model</figcaption></figure>
 
-# Interactive Augmented Reality Indoor Cliff Experience
-
 I created an immersive augmented reality project that simulated the experience of observing scenic cliff views within an indoor environment. Using a combination of rotary encoders and cameras, visitors could discover hidden layers of information and visual effects while interacting with a physical recreation of a cliff.
 
 <!-- more -->
