@@ -14,7 +14,7 @@ authors:
 ---
 
 # My Ocean World
-<figure markdown> ![My Ocean World 8](/images/oceanworld/IMG_2997-1024x766.jpg "My Ocean World 8"){width="300px"} <figcaption>My Ocean World 8</figcaption></figure>
+<figure markdown> ![My Ocean World](/images/oceanworld/IMG_2997-1024x766.jpg "My Ocean World"){width="300px"} <figcaption>My Ocean World</figcaption></figure>
 
 Using an Intel RealSense camera, I developed an object detection system in C++ to track the
 user's arms on the table. This way the users can interact with the objects projected on the table.
@@ -31,7 +31,6 @@ user's arms on the table. This way the users can interact with the objects proje
 - <figure markdown> ![My Ocean World 5](/images/oceanworld/IMG_2994-1024x768.jpg "My Ocean World 5"){width="300px"} <figcaption>My Ocean World 5</figcaption></figure>
 - <figure markdown> ![My Ocean World 6](/images/oceanworld/IMG_2995-1024x768.jpg "My Ocean World 6"){width="300px"} <figcaption>My Ocean World 6</figcaption></figure>
 - <figure markdown> ![My Ocean World 7](/images/oceanworld/IMG_2996-1024x768.jpg "My Ocean World 7"){width="300px"} <figcaption>My Ocean World 7</figcaption></figure>
-- <figure markdown> ![My Ocean World 8](/images/oceanworld/IMG_2997-1024x766.jpg "My Ocean World 8"){width="300px"} <figcaption>My Ocean World 8</figcaption></figure>
 - <figure markdown> ![My Ocean World 9](/images/oceanworld/IMG_3035-937x1024.jpg "My Ocean World 9"){width="300px"} <figcaption>My Ocean World 9</figcaption></figure>
 </div>
 
