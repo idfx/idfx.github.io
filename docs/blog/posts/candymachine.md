@@ -2,7 +2,7 @@
 date:
   created: 2015-06-01
 categories:
-  - Raspberry Pi
+  - DIY
 tags:
   - Arduino
   - Raspberry Pi
