@@ -54,12 +54,10 @@ San Francisco, CA
 Autodesk
 
 ## Date
-February 2021
+December 2021
 
 ## Links
-[https://thecastle.ca](https://thecastle.ca)
-
-[https://ngxinteractive.com/project/craigdarroch-castle/](https://ngxinteractive.com/project/craigdarroch-castle/)
+[https://ngxinteractive.com/case-study/autodesk-gallery-2-0/](https://ngxinteractive.com/case-study/autodesk-gallery-2-0/)
 
 ## Technical Environment
 iOS, ARKit, Unity3D, Vuforia SDK
