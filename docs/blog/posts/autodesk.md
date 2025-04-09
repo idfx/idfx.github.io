@@ -16,14 +16,13 @@ authors:
 
 <figure markdown> ![Lightning electric motorcycle AR 3](/images/autodesk/light3.jpeg "Lightning electric motorcycle AR 3"){width="300px"} <figcaption>Lightning electric motorcycle AR 3</figcaption></figure>
 
-This was the work I did for the Autodesk Gallery in San Francisco. It involved solving a few technical
-challenges to meet the client requirements in terms of what could be used to start the AR experiencies.
+This project presented several technical challenges to fulfill the client's specifications regarding AR experience activation. The requirement was to create a completely seamless interaction, eliminating visible markers and instead utilizing only the physical objects themselves as triggers. This approach demanded innovative solutions to maintain both functionality and user experience quality.
 
 <!-- more -->
 
 I worked on 3 different applications for this project:
 
-- The Lightning electric motorcycle
+- The Lightning electric motorcycle, where I used the bike as a 
 - The NEST Digital Twin
 - The LEVVEL project in Afsluitdijk, Netherlands
 
