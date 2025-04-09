@@ -3,6 +3,7 @@ date:
   created: 2015-11-01
 categories:
   - Projection Mapping
+  - Depth Cameras
 tags:
   - Projection Mapping
   - Unity3D
