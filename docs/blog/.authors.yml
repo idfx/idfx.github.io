@@ -2,15 +2,15 @@ authors:
   craigdarroch:
     name: Craigdarroch Castle
     description: Victoria, BC
-    avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYwKFrI3M6uZZN5m-dIc_j0nPC8lAGs8O5iA&s
+    avatar: /images/logos/crg.jpg
   telus:
     name: Telus World of Science Edmonton
     description: Edmonton, AB
-    avatar: https://images.squarespace-cdn.com/content/v1/6251e65ef43f4f4578ee083f/c7fe91fd-c27d-44b1-9dab-4ec5726dbee4/TELUS+logo.png
+    avatar: /images/logos/TELUS+logo.png
   cdm:
     name: Centre for Digital Media
     description: Vancouver, BC
-    avatar: https://yt3.googleusercontent.com/1f0Y_lcNtQP2GdPcl-p26tMhlN_3ABtLdkZW96BjsPpRGaZPZO0lloduzM-bGgn4hLc70uHnlQ=s900-c-k-c0x00ffffff-no-rj
+    avatar: /images/logos/cdm.jpg
   autodesk:
     name: Autodesk
     description: San Francisco, CA
@@ -18,16 +18,16 @@ authors:
   discovery:
     name: Discovery Centre
     description: Halifax, NS
-    avatar: https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/326728969_734724981350350_9196756129476508873_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=AdLpDgm3s5gQ7kNvwHyG9F3&_nc_oc=AdkQuQqLNi_rL1Q_bJJXqdb3WwxbNy3tUXXKUNFiFhgQT3XrLW6RGPPtRnmU7Hk7AYM&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=w_pbZnN69BC3zHSy8qlE4w&oh=00_AYFHDDvZy1uMzvvpXFYE00RwmOkWYlZdt98hk4y6PvZS4Q&oe=67F54A20
+    avatar: /images/logos/discoverycentre.jpg
   scienceworld:
     name: Science World
     description: Vancouver, BC
-    avatar: https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/326423284_585684266252572_3311252992572865937_n.png?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=j5velxg0uU0Q7kNvwEuDPoZ&_nc_oc=AdkjeVeVPWh_phBtRR_cUz4urbteYXbQBMcz7FMtSIcHk6_iGX8hgI8IEaH7vCD0M4Y&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&_nc_gid=N2wp7nXCMUVmrzhlDmbyDg&oh=00_AYHUUz8XNc6beSoNnHWZe8lpJ-FpYkkGJgcvaNAgE32BQA&oe=67F53CCD
+    avatar: /images/logos/scienceworld.png
   perlan:
     name: Perlan Museum
     description: Reykjavik, Iceland
-    avatar: https://images.prismic.io/perlan/6ef22890-2ba1-46d8-a5db-3e822a90cd54_logo2.png?auto=compress%2Cformat&rect=46%2C0%2C750%2C827&w=3840&fit=max
+    avatar: /images/logos/perlan.png
   biosphere:
     name: Biosphere, Space for Life
     description: Montreal, QC
-    avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuccVRPvamoVwMTp_agWM-drHzlSQsuv_JWQ&s
+    avatar: /images/logos/biosphere.jpeg
