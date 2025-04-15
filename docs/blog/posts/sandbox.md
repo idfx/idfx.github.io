@@ -5,7 +5,6 @@ categories:
   - Projection Mapping
   - Depth Cameras
 tags:
-  - Projection Mapping
   - Unity3D
   - Kinect v2
 authors:

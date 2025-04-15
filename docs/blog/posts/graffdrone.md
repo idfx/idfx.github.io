@@ -3,6 +3,7 @@ date:
   created: 2015-07-01
 categories:
   - Draft
+  - UAVs
 tags:
   - Parrot ARDroneSDK
   - Javascript

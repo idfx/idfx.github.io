@@ -3,10 +3,11 @@ date:
   created: 2016-05-01
 categories:
   - Augmented Reality
+  - Location Aware
 tags:
   - Unity3D
   - iOS
-  - Estimote Bluetooth LE beacons
+  - Bluetooth LE beacons
   - Vuforia SDK
 authors:
   - craigdarroch
