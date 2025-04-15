@@ -42,10 +42,5 @@ NGX Interactive
 ## Date
 May 2016
 
-## Links
-[https://thecastle.ca](https://thecastle.ca)
-
-[https://ngxinteractive.com/project/craigdarroch-castle/](https://ngxinteractive.com/project/craigdarroch-castle/)
-
 ## Technical Environment
 Unity3D, Android, Sphero robots, OpenCV, projection
