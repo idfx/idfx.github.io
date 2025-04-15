@@ -31,3 +31,7 @@ authors:
     name: Biosphere, Space for Life
     description: Montreal, QC
     avatar: /images/logos/biosphere.jpeg
+  ngx:
+    name: NGX Interactive
+    description: Vancouver, BC
+    avatar: /images/logos/ngx.jpeg
