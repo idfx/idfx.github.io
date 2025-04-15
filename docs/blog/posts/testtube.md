@@ -14,7 +14,7 @@ authors:
 
 <figure markdown> ![Choose a sample](/images/testtube/IMG_2967-1024x768.jpg "Choose a sample"){width="300px"} <figcaption>Choose a sample</figcaption></figure>
 
-Using a passive RFID reader, the system plays different videos in response to the test tube detected.
+Using an RFID reader the system detects the different passive RFID tags embedded in the test tube caps, and plays different videos in response to the sample detected.
 
 <!-- more -->
 
