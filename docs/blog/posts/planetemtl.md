@@ -18,7 +18,7 @@ authors:
 
 <figure markdown> ![Full Exhibit](/images/planetemtl/IMG_4424-1024x723.jpg "Full Exhibit"){width="300px"} <figcaption>Full Exhibit</figcaption></figure>
 
-In the Planete MTL exhibit, we used projection mapping to showcase the outcome of the decisions made by the players around a 3D model of the city.
+In the Planete MTL exhibit, we used projection mapping to showcase the outcome of the decisions made by the players around a 3D model of Montreal.
 
 <!-- more -->
 ## Images
@@ -56,9 +56,8 @@ Biosphere, Space for Life
 June 2017
 
 ## Links
-[https://thecastle.ca](https://thecastle.ca)
 
-[https://ngxinteractive.com/project/craigdarroch-castle/](https://ngxinteractive.com/project/craigdarroch-castle/)
+[https://ngxinteractive.com/project/montreal-biosphere/](https://ngxinteractive.com/project/montreal-biosphere/)
 
 ## Technical Environment
 Unity3D, iOS, Estimote Bluetooth LE beacons, Vuforia SDK
