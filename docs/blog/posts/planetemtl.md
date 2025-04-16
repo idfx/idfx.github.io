@@ -60,7 +60,7 @@ June 2017
 [https://ngxinteractive.com/project/montreal-biosphere/](https://ngxinteractive.com/project/montreal-biosphere/)
 
 ## Technical Environment
-Unity3D, iOS, Estimote Bluetooth LE beacons, Vuforia SDK
+TouchDesigner, Unity3D, Node.js, MongDB, OSC, DMX
 
 ## Awards
 Summit International Awards (SIA) – Emerging Media Award – Visionary Award 2017.
