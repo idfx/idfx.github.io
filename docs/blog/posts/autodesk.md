@@ -22,7 +22,7 @@ This project presented several technical challenges to fulfill the client's spec
 
 I worked on 3 different applications for this project:
 
-- The Lightning electric motorcycle, where I used the bike as a 
+- The Lightning electric motorcycle
 - The NEST Digital Twin
 - The LEVVEL project in Afsluitdijk, Netherlands
 
